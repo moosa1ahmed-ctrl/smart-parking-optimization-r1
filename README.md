@@ -74,7 +74,6 @@ See [`docs/CP468-TP-35-writeup.pdf`](docs/CP468-TP-35-writeup.pdf) for the compl
 
 ## Team
 Group project for CP468 (Artificial Intelligence), Wilfrid Laurier University.
-
 - Moosa Ahmed
 - Lucas Matheson
 - Bhavnoor Dhillon
